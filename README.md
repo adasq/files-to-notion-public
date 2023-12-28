@@ -1,6 +1,6 @@
 ![Files to Notion app logo](https://github.com/adasq/files-to-notion-public/assets/5637734/f9fe04b5-3921-4592-9798-cfb21c90f491)
 
-# Files to Notion ([files2notion.com](https://files2notion.com/))
+# Files to Notion ([files2notion.com](https://www.files2notion.com/))
 
 Organise and access your local files in Notion, without uploading them to the Cloud.
 
